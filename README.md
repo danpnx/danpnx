@@ -4,6 +4,8 @@
 
 -🎓 I'm currently studying Computer Science at @Descomplica
 
+##
+
 ### Languages and Tools:
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Daniel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
