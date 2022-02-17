@@ -3,6 +3,7 @@
 ##
 
 -🎓 I'm currently studying Computer Science at @Descomplica
+-👨‍💻 I'm currently studying JavaScript, HTML, CSS and Node.js
 
 ##
 
