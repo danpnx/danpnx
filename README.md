@@ -3,15 +3,14 @@
 ##
 -🎓 I'm currently studying Computer Science at @Descomplica
 
--👨‍💻 I'm currently studying JavaScript, HTML, CSS and Node.js
+-👨‍💻 I'm currently studying JavaScript.
 ##
-
 ### Languages and Tools:
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Daniel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-  <a href="https://nodejs.org/en/docs/"><img align="center" alt="Daniel-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"></a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="Daniel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="Daniel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></a>
+ <!--  <a href="https://nodejs.org/en/docs/"><img align="center" alt="Daniel-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"></a> -->
+ <!-- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="Daniel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a> -->
+ <!-- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="Daniel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></a> -->
   
 ##
   
