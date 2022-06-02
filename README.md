@@ -6,12 +6,9 @@
 ##
 ### Languages and Tools:
 <div style="display: inline_block"><br>
-  
-  <a href="https://www.java.com/pt-BR/"><img align="center" alt="Daniel-JV" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg"></a>
-  
-  <a href="https://kotlinlang.org/"><img align="center" alt="Daniel-KT" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"></a>
-  
-  <a href="https://developer.android.com/studio"><img align="center" alt="Daniel-AS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
+  <a href="https://www.java.com/pt-BR/"><img align="center" alt="Daniel-JV" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
+  <a href="https://kotlinlang.org/"><img align="center" alt="Daniel-KT" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a>
+  <a href="https://developer.android.com/studio"><img align="center" alt="Daniel-AS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></a>
 </div>
   
 ##
