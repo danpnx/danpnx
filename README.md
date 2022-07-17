@@ -4,7 +4,7 @@
 -🎓 I'm currently studying Computer Science at @Descomplica
 
 ##
-### Languages and Tools:
+### Learning:
 <div style="display: inline_block"><br>
   <a href="https://www.java.com/pt-BR/"><img align="center" alt="Daniel-JV" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
   <a href="https://kotlinlang.org/"><img align="center" alt="Daniel-KT" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a>
