@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Daniel
 
 ##
--🎓 I'm currently studying Computer Science at @Descomplica
+-🎓 I'm currently studying Computer Science at Descomplica
 
 ##
 ### Learning:
