@@ -7,10 +7,10 @@
 <div style="display: inline_block"><br>
  ⚙️ Technologies
   <br> <br>
+ <a href="https://kotlinlang.org/"><img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a>
   <a href="https://www.java.com/pt-BR/"><img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
   <a href="https://spring.io/"><img align="center" alt="Spring Framework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></a>
- <a href="https://kotlinlang.org/"><img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a>
- <a href="https://developer.android.com/jetpack/compose"><img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></a>
+ <!-- <a href="https://developer.android.com/jetpack/compose"><img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></a> -->
   <a href="https://www.mysql.com/"><img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
   <a href="https://git-scm.com/"><img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
   <a href="https://www.postman.com/"><img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"></a>
