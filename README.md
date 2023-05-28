@@ -2,7 +2,7 @@
 
 - 👦🏽 I'm Daniel Augusto and I'm from Montes Claros, MG, Brazil
 - 🎓 I'm currently studying Computer Science at Descomplica
-- ⚽ I love sports, especially football and volleyball
+- ‍💻 Back-end Developer
 
 <div style="display: inline_block"><br>
  ⚙️ Technologies
